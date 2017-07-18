@@ -1,7 +1,7 @@
 // External files used
 
-$ territory_Definition = [./LibraryOfClauses.cmacc]
-$ agreementTerritory = "{{territory_Definition.territory_US}}"
+$ territoryDefinition = [./LibraryOfClauses.cmacc]
+$ agreementTerritory = "{{territoryDefinition.territory_US}}"
 
 // Document
 
