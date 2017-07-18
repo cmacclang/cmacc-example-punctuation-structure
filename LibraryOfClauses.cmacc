@@ -1,7 +1,7 @@
 // List of possible clauses
 
-$ territoryTBD = "...please specify a territory..."
+$ territory_TBD = "...please specify a territory..."
 
-$ territoryUS = "This agreement is for the US territory only"
+$ territory_US = "This agreement is for the US territory only"
 
-$ territoryGlobal = "This agreement is for the whole world"
+$ territory_Global = "This agreement is for the whole world"
